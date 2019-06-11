@@ -1,3 +1,4 @@
 from maawu import heewu as heewu
-print("asdjioa") Multiplymulpti
+print("asdjioa") plusplus
 dividedivide
+oolppppp
