@@ -1,2 +1,3 @@
 from maawu import heewu as heewu
-print("asdjioa")
+print("asdjioa") Multiplymulpti
+dividedivide
